@@ -3,15 +3,16 @@
 
 
 
-### Hi there, I'm Edilton Oliveira! 👋
+### Hi, I'm Edilton Oliveira! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EdiltonOliveira&color=yellow" alt="Profile views" /> </p>
 
 <!--
 **EdiltonOliveira/EdiltonOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- I'm a front-end developer.
-- I am a pharmacy student who has rediscovered his passion for the world of programming.
-- Learning a little bit every day. Can I help you?
+- I'm a front-end developer. 🔥 
+- I am a pharmacy student who has rediscovered his passion for the world of programming. 👨‍💻 
+- Learning a little bit every day. Can I help you? 💬
 
 <div align="center">
   <a href="https://github.com/EdiltonOliveira">
@@ -21,7 +22,7 @@
   
   ##
   
-  ### Technologies
+  ### Technologies Stack
   
   
   <div style="display: inline_block"><br>
