@@ -10,8 +10,8 @@
 **EdiltonOliveira/EdiltonOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- I'm a front-end developer. 🔥 
-- I am a pharmacy student who has rediscovered his passion for the world of programming. 👨‍💻 
+- A front-end developer. 🔥 
+- A pharmacy student who has rediscovered his passion for the world of programming. 👨‍💻 
 - Learning a little bit every day. Can I help you? 💬
 
 <div align="center">
